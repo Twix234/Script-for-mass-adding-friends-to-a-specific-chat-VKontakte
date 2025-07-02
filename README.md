@@ -15,7 +15,7 @@ pkg install git -y && pkg install python -y (Для Termux)
 bash git clone https://github.com/Twix234/mass-invite-vk-bot.git && cd ~/mass-invite-vk-bot && pip install -r requirements.txt && python main.py (Это команда,Для всех ОС, что описаны сверху без исключений)
 
 
----
+
 
 📦 Возможности
 
@@ -23,7 +23,7 @@ bash git clone https://github.com/Twix234/mass-invite-vk-bot.git && cd ~/mass-in
 
 ✅ Поддержка всех платформ
 
-✅ Ожидает команду !invite от владельца
+✅ Ожидает команду !invite от владельца аккаунта.
 
 ✅ Простая настройка через .env
 
@@ -45,13 +45,9 @@ python main.py
 
 
 
-Установка в Termux вручную (Android)
+Установка в Termux вручную (Android):
 
-pkg update && pkg install git python -y
-git clone https://github.com/Twix234/mass-invite-vk-bot.git
-cd ~/mass-invite-vk-bot
-pip install -r requirements.txt
-python main.py
+pkg update && pkg install git python -y && git clone https://github.com/Twix234/mass-invite-vk-bot.git && cd ~/mass-invite-vk-bot  && pip install -r requirements.txt && python main.py
 
 Установка вручную в Linux/macOS:
 
