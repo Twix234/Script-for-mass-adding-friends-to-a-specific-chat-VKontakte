@@ -74,7 +74,7 @@ async def main():
 
     last_id = None
 
-    print("✅ Скрипт запущен. Ждите команду !invite от владельца...")
+    print("✅ Скрипт запущен. Введите команду !invite в нужный чат...")
 
     while True:
         try:
