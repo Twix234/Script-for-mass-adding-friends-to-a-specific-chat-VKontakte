@@ -39,7 +39,7 @@ bash git clone https://github.com/Twix234/mass-invite-vk-bot.git && cd ~/mass-in
 3. Открой CMD или PowerShell и выполни:
 
 git clone https://github.com/Twix234/mass-invite-vk-bot.git
-cd mass-invite-vk-bot
+cd ~/mass-invite-vk-bot
 pip install -r requirements.txt
 python main.py
 
@@ -49,14 +49,14 @@ python main.py
 
 pkg update && pkg install git python -y
 git clone https://github.com/Twix234/mass-invite-vk-bot.git
-cd mass-invite-vk-bot
+cd ~/mass-invite-vk-bot
 pip install -r requirements.txt
 python main.py
 
 Установка вручную в Linux/macOS:
 
 git clone https://github.com/Twix234/mass-invite-vk-bot.git
-cd mass-invite-vk-bot
+cd ~/mass-invite-vk-bot
 pip install -r requirements.txt
 python main.py
 
